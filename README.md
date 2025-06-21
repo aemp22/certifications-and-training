@@ -1,2 +1,2 @@
 # certifications-and-training
-A collection of verified certifications in engineering tools.
+This repository showcases verified certifications earned through technical training in engineering, programming, and simulation tools. It includes credentials in MATLAB, Simulink, CAD design, and PLC programming, demonstrating proficiency across key areas in mechanical and aerospace engineering.
